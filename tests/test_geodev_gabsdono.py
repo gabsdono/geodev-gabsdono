@@ -2,7 +2,6 @@
 
 """Tests for `geodev_gabsdono` package."""
 
-
 import unittest
 
 from geodev_gabsdono import geodev_gabsdono

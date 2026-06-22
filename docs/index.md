@@ -9,7 +9,7 @@
 
 -   Free software: MIT License
 -   Documentation: <https://gabsdono.github.io/geodev_gabsdono>
-    
+
 
 ## Features
 
