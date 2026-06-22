@@ -10,8 +10,9 @@
 
 -   Free software: MIT License
 -   Documentation: https://gabsdono.github.io/geodev-gabsdono
-    
+
 
 ## Features
 
--   TODO
+-   Creat interactive maps with minimal lines of code
+-   Greatea took for GIS
