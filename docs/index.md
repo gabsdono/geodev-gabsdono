@@ -13,4 +13,5 @@
 
 ## Features
 
--   TODO
+-   Create interactive maps 
+-   Process and analyze geospatial data
