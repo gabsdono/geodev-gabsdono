@@ -8,7 +8,7 @@
 
 
 -   Free software: MIT License
--   Documentation: <https://gabsdono.github.io/geodev_gabsdono>
+-   Documentation: <https://gabsdono.github.io/geodev-gabsdono>
 
 
 ## Features
