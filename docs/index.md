@@ -15,3 +15,10 @@
 
 -   Create interactive maps 
 -   Process and analyze geospatial data
+
+## Usage
+
+```python    
+import geodev_gabsdono as gd
+
+```
