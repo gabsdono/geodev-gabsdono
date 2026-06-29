@@ -15,6 +15,7 @@
 
 -   Create interactive maps 
 -   Process and analyze geospatial data
+-   Visualize geospatial data with various plotting options
 
 ## Usage
 
